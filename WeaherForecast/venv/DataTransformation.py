@@ -1,10 +1,10 @@
 import csv
 import pandas as pd
 
-baseDir = 'C:/Users/Drey/Desktop'
+baseDir = 'D:/Users/Дрей/Desktop/Neural/Neural-master'
 baseSetName = 'Data.xls'
-resSetName = 'DataTestV3.xlsx'
-factorSetName = 'FactorsV4.xlsx'
+resSetName = 'DataTestV5.xlsx'
+factorSetName = 'FactorsV5.xlsx'
 
 baseSet = '{0}/{1}'.format(baseDir, baseSetName)
 resSet = '{0}/{1}'.format(baseDir, resSetName)
